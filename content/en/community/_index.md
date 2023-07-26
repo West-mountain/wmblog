@@ -1,5 +1,5 @@
 ---
-title: Community
+title: 山人杂话
 menu: {main: {weight: 40}}
 ---
 
