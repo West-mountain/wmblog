@@ -4,9 +4,9 @@ title: Goldydocs
 
 {{< blocks/cover title="天南地北双飞客!" image_anchor="top" height="full" >}}
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
-  学习笔记 <i class="fas fa-arrow-alt-circle-right ms-2"></i>
+  JMP笔记 <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="/community/">
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="/joy/">
   西山杂话 <i class="fa fa-coffee ms-2 "></i>
 </a>
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/blog/">

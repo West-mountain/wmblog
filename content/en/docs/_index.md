@@ -1,5 +1,5 @@
 ---
-title: 学习笔记
+title: JMP笔记
 <!-- linkTitle: Docs -->
 menu: {main: {weight: 20}}
 weight: 20

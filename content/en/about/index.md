@@ -4,7 +4,7 @@ title: 卷首
 menu: {main: {weight: 10}}
 ---
 
-{{% blocks/cover title="西山之桦望江南" image_anchor="bottom" height="auto" %}}
+{{% blocks/cover title="望江南" image_anchor="bottom" height="auto" %}}
 
 西山之桦驻居幽燕处曰西山居，赌书泼茶逐戏人间。
 {.mt-5}
