@@ -1,6 +1,10 @@
  baseURL = "/"
 title = "西山居"
 
+publishDir = "content/en"
+canonifyURLs = true
+
+
 # Language settings
 contentDir = "content/en"
 defaultContentLanguage = "en"
