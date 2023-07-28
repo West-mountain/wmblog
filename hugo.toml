@@ -1,7 +1,7 @@
  baseURL = "/"
 title = "西山居"
 
-publishDir = "docs"
+publishDir = "public"
 canonifyURLs = true
 
 # Language settings
