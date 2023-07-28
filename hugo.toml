@@ -1,5 +1,5 @@
  baseURL = "/"
-title = "西山居 xishanzhihua@gmail.com"
+title = "西山居xishanzhihua@gmail.com"
 
 publishDir = "public"
 canonifyURLs = true
