@@ -1,9 +1,8 @@
  baseURL = "https://west-mountain.github.io/wmblog/"
 title = "西山居"
 
-publishDir = "content/en"
+publishDir = "public"
 canonifyURLs = true
-
 
 # Language settings
 contentDir = "content/en"
