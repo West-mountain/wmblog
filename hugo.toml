@@ -1,4 +1,4 @@
- baseURL = "/"
+ baseURL = "https://west-mountain.github.io/wmblog/"
 title = "西山居"
 
 publishDir = "content/en"
