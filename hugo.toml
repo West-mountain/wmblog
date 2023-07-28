@@ -1,7 +1,7 @@
  baseURL = "/"
 title = "西山居xishanzhihua@gmail.com"
 
-publishDir = "public"
+publishDir = "docs"
 canonifyURLs = true
 
 # Language settings
